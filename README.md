@@ -154,8 +154,6 @@ El algoritmo A* es un algoritmo de búsqueda heurística que encuentra el camino
 - **Autor**: Martin Verastegui
 - **Email**: martin.verastegui@gmail.com
 - **GitHub**: [GoldHood](https://github.com/GoldHood)
-- **Twitter/X**: [@GoldHoodAI](https://twitter.com/GoldHoodAI) (Hipotético)
-- **Formulario de Contacto**: [Formulario de Google](https://forms.gle/tu-formulario) (Reemplaza con tu enlace)
 
 ---
 
@@ -165,16 +163,16 @@ Este proyecto está bajo la licencia MIT License.
 
 ---
 
-## 🌐 ¡Hazlo viral!
+## 🌐 ¡Comparte!
 
 Tu apoyo es esencial para que más personas descubran este proyecto. Aquí tienes cómo puedes ayudar:
 
 - Dale una estrella ⭐ al repositorio.
 - Comparte en tus redes sociales:
 
-  > "🚀 Descubre cómo DynamicMazeAstar utiliza IA para resolver laberintos dinámicos en tiempo real. ¡Impresionante proyecto open-source! ⭐ https://github.com/GoldHood/DynamicMazeAstar #Python #IA #AStar #OpenSource"
+  > "🚀 Descubre cómo DynamicMazeAstar utiliza IA para resolver laberintos dinámicos en tiempo real. ⭐ https://github.com/GoldHood/DynamicMazeAstar #Python #IA #AStar #OpenSource"
 
-- Únete a la conversación: Comparte tus ideas y sugerencias.
+- Únete a la conversación: Comparte tus preguntas, ideas y sugerencias.
 
 ---
 
